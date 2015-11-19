@@ -1,0 +1,20 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Item">
+  <TemplateData>
+    <DefaultName>WHY_MUSIC_headband.cs</DefaultName>
+    <Name>WHY_MUSIC_headband</Name>
+    <Description>Заставка</Description>
+    <ProjectType>CSharp</ProjectType>
+    <SortOrder>10</SortOrder>
+    <Icon>__TemplateIcon.ico</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <References>
+      <Reference>
+        <Assembly>System</Assembly>
+      </Reference>
+    </References>
+    <ProjectItem SubType="Form" TargetFileName="$fileinputname$.cs" ReplaceParameters="true">headband.cs</ProjectItem>
+    <ProjectItem SubType="" TargetFileName="$fileinputname$.Designer.cs" ReplaceParameters="true">headband.Designer.cs</ProjectItem>
+    <ProjectItem SubType="" TargetFileName="$fileinputname$.resx" ReplaceParameters="true">headband.resx</ProjectItem>
+  </TemplateContent>
+</VSTemplate>
