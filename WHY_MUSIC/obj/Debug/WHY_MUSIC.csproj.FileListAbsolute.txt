@@ -1,0 +1,19 @@
+c:\users\user\documents\visual studio 2015\Projects\WHY_MUSIC\WHY_MUSIC\bin\Debug\WHY_MUSIC.exe.config
+E:\WHY_MUSIC\WHY_MUSIC\bin\Debug\WHY_MUSIC.exe.config
+E:\WHY_MUSIC\WHY_MUSIC\bin\Debug\WHY_MUSIC.exe
+E:\WHY_MUSIC\WHY_MUSIC\bin\Debug\WHY_MUSIC.pdb
+E:\WHY_MUSIC\WHY_MUSIC\obj\Debug\WHY_MUSIC.csprojResolveAssemblyReference.cache
+E:\WHY_MUSIC\WHY_MUSIC\obj\Debug\WHY_MUSIC.Form1.resources
+E:\WHY_MUSIC\WHY_MUSIC\obj\Debug\WHY_MUSIC.Properties.Resources.resources
+E:\WHY_MUSIC\WHY_MUSIC\obj\Debug\WHY_MUSIC.csproj.GenerateResource.Cache
+E:\WHY_MUSIC\WHY_MUSIC\obj\Debug\WHY_MUSIC.exe
+E:\WHY_MUSIC\WHY_MUSIC\obj\Debug\WHY_MUSIC.pdb
+E:\WHY_MUSIC\WHY_MUSIC\obj\Debug\WHY_MUSIC.Sign_in_form.resources
+E:\WHY_MUSIC\WHY_MUSIC\obj\Debug\WHY_MUSIC.Sign_up_form.resources
+E:\WHY_MUSIC\WHY_MUSIC\obj\Debug\WHY_MUSIC.Error_form.resources
+E:\WHY_MUSIC\WHY_MUSIC\obj\Debug\WHY_MUSIC.headband1.resources
+E:\WHY_MUSIC\WHY_MUSIC\obj\Debug\WHY_MUSIC.feedback.resources
+E:\WHY_MUSIC\WHY_MUSIC\obj\Debug\WHY_MUSIC.contacts.resources
+E:\WHY_MUSIC\WHY_MUSIC\obj\Debug\WHY_MUSIC.anketa.resources
+E:\WHY_MUSIC\WHY_MUSIC\bin\Debug\ClassLibrary1.dll
+E:\WHY_MUSIC\WHY_MUSIC\obj\Debug\WHY_MUSIC.ri.resources
